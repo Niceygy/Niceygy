@@ -5,7 +5,7 @@ I specalise in HTML, Java & CSS. Learning C++!
 
     🏳️‍🌈 She/Her
     💖 Asexual 
-    👽 Dev for the @The-Alien-Empire
+    👽 Dev for the @UFO-Studios
     🎮 Streamer @ NiceygyLive
 
 <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/NiceygyLive/NiceygyLive.xyz" />
