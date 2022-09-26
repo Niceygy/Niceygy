@@ -1,7 +1,7 @@
 # Hallo! 
-Im Niceygy aka nicey :D
+Im Niceygy! ( call me nice-ee)
 
-I specalise in HTML, JavaScript & CSS. 
+I specalise in HTML & JS. (Slowly) learning java 
 
     🏳️‍🌈 She/Her
     💖 Asexual 
