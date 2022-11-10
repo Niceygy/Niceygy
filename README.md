@@ -16,3 +16,14 @@ Lover of the ✿ symbol
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Dashboard)](https://github.com/UFO-Studios/Alienbot-Dashboard)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-YouTube)](https://github.com/UFO-Studios/Alienbot-YouTube)
+
+## Software I Use
+
+ <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> - JS
+<br> </br>
+ <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> - NodeJS & NPM
+<br> </br>
+ <img align="center" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /> - JSON
+ <br> </br>
+ <img align="center" height="50px" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> - GitHub
+ <br> </br>
