@@ -1,9 +1,9 @@
 # Hallo!
-Im Niceygy! ( call me nice-ee)
+### Im Niceygy! ( call me nice-ee)
 
-I specalise in JS, mostly doing stuff for @UFO-Studios (Find them at TheAlienDoctor.com)
-Avid nerd and gamer (Racing games rule!!)
-Always looking for new ideas :D
+🪷 I specalise in JS, mostly doing stuff for @UFO-Studios (Find them at TheAlienDoctor.com)<br> </br>
+🎮 Avid nerd and gamer (Racing games rule!!)<br> </br>
+🏳️‍🌈 Always looking for new ideas :D<br> </br>
 Lover of the ✿ symbol
 
 ## Stats n Stuff
