@@ -1,12 +1,19 @@
 # Hallo!
 ### Im Niceygy! ( call me nice-ee)
 
-🪷 I specalise in JS, mostly doing stuff for @UFO-Studios (Find them at TheAlienDoctor.com)<br> </br>
+🪷 I'm on discord! `Niceygy #0799` <br> </br>
 🎮 Avid nerd and gamer (Racing games rule!!)<br> </br>
 🏳️‍🌈 Always looking for new ideas :D<br> </br>
-Lover of the ✿ symbol
+😅 Lover of the ✿ symbol
 
-## Stats n Stuff
+## What do I do?
+
+• NodeJS Dev for UFO Studios <br> </br>
+• sysadmin (contact me by email for more info) <br> </br>
+• Cyber security <br> </br>
+• YouTube toutirials
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiceygyLive&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
