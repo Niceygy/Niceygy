@@ -17,6 +17,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiceygyLive&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+## Awards & Certifacations
+ <img align="left" height="120px" width="100px" src="https://github.com/NiceygyLive/NiceygyLive/blob/main/ideaBronze.png?raw=true" />
+ <img align="center" height="120px" width="100px" src="https://github.com/NiceygyLive/NiceygyLive/blob/main/ideaSilver.png?raw=true" />
+
+iDEA Bronze & Sliver Awards
 
 ## Current Projects:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com)
