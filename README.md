@@ -44,6 +44,8 @@ iDEA Bronze & Sliver Awards
  <img align="center" height="50px" width="50px" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png" /> - Visual Studio 2022
  <br> </br>
  <img align="center" height="50px" width="50px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" /> - Visual Studio Code
+  <br> </br>
+ <img align="center" height="50px" width="50px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" /> - Docker & Portainer
  
  <img align="center" height="50px" width="50px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" /> - Ubuntu (20.04 & 22.04)
  <br> </br>
