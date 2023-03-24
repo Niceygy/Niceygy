@@ -27,7 +27,7 @@ iDEA Bronze & Sliver Awards
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Dashboard)](https://github.com/UFO-Studios/Alienbot-Dashboard)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-YouTube)](https://github.com/UFO-Studios/Alienbot-YouTube)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygylive&repo=Go-Performance-Monitor)](https://github.com/NiceygyLive/Go-Performance-Monitor)
 
 ## Software I Use
 
