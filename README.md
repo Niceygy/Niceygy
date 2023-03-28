@@ -9,9 +9,9 @@
 ## What do I do?
 
 • NodeJS Dev for UFO Studios <br> </br>
-• sysadmin (contact me by email for more info) <br> </br>
-• Cyber security <br> </br>
-• YouTube toutirials
+• Sysadmin <br> </br>
+• Go Dev  <br> </br>
+• Occasional Streamer 
 
 
 
