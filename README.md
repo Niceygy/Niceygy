@@ -1,5 +1,5 @@
 # Hallo!
-### I'm S.Whale, aka Niceygy
+### I'm Olivia Whale, aka Niceygy
 Pronounced Nice-ee-gee
 (Yes my surname is Whale xD)
 
