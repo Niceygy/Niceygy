@@ -14,7 +14,7 @@ Working on a few NLI projects! (NLI = Natural Language Interface) <br> </br>
 As well as that, I also do a few things for [@TheAlienDoctor](https://github.com/thealiendoctor) & [@Escodon](https://github.com/escodon). <br> </br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiceygyLive&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niceygy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Awards & Certifications
  <img align="left" height="120px" width="100px" src="https://github.com/NiceygyLive/NiceygyLive/blob/main/ideaBronze.png?raw=true" />
