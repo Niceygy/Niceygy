@@ -25,7 +25,7 @@ iDEA Bronze & Sliver Awards
 ## Current Projects:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygylive&repo=picam)](https://github.com/NiceygyLive/PiCam)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygy&repo=picam)](https://github.com/Niceygy/PiCam)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder)
 
 
