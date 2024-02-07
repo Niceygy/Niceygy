@@ -8,7 +8,7 @@ Pronounced Nice-ee-gee
 
 Mostly system admin & programming projects. I mostly use Python & Javascript, with the occational Go project. <br> </br>
 I specialise in backend systems & the CLI. I daily drive Windows 11 with a Debian 11 dev env. <br> </br>
-I write guides too! Find them at [blog.niceygylive.xyz](https://blog.niceygylive.xyz) <br> </br>
+I write guides too! Find them at [niceygylive.xyz](https://niceygylive.xyz) <br> </br>
 Working on a few NLI projects! (NLI = Natural Language Interface) <br> </br>
 <br> </br>
 As well as that, I also do a few things for [@TheAlienDoctor](https://github.com/thealiendoctor) & [@Escodon](https://github.com/escodon). <br> </br>
