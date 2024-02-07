@@ -6,13 +6,10 @@ Pronounced Nice-ee-gee
 
 ## What do I do?
 
-Mostly system admin & programming projects. I mostly use Python & Javascript, with the occational Go project. <br> </br>
-I specialise in backend systems & the CLI. I daily drive Windows 11 with a Debian 11 dev env. <br> </br>
+Mostly sysadmin & programming projects. I mostly use Python & Javascript, with the occational AutoIt project. <br> </br>
+I make tools to automate mundane tasks, or just for fun!<br> </br>
 I write guides too! Find them at [niceygylive.xyz](https://niceygylive.xyz) <br> </br>
-Working on a few NLI projects! (NLI = Natural Language Interface) <br> </br>
-<br> </br>
-As well as that, I also do a few things for [@TheAlienDoctor](https://github.com/thealiendoctor) & [@Escodon](https://github.com/escodon). <br> </br>
-
+As well as that, I also do a few things for [@UFO-Studios](https://github.com/ufo-studios) & [@Escodon](https://github.com/escodon). <br> </br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niceygy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
