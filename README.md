@@ -25,5 +25,4 @@ iDEA Bronze & Sliver Awards
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygy&repo=picam)](https://github.com/Niceygy/PiCam)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder)
 <br></br>
-[ed](https://inara.cz/data/sig/432/432951.jpg)
-
+<img align="center" height="120px" width="100px" src="https://inara.cz/data/sig/432/432951.jpg" />
