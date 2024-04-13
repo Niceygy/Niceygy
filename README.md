@@ -1,14 +1,13 @@
 # Hallo!
-### I'm Olivia Whale, aka Niceygy
-Pronounced Nice-ee-gee
-(Yes my surname is Whale xD)
+### I'm nicey
+
+A computer programmer & student. Although you probably knew the first one. <br> </br>
 
 
 ## What do I do?
 
 Mostly sysadmin & programming projects. I mostly use Python & Javascript, with the occational AutoIt project. <br> </br>
 I make tools to automate mundane tasks, or just for fun!<br> </br>
-I write guides too! Find them at [niceygylive.xyz](https://niceygylive.xyz) <br> </br>
 As well as that, I also do a few things for [@UFO-Studios](https://github.com/ufo-studios) & [@Escodon](https://github.com/escodon). <br> </br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niceygy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
