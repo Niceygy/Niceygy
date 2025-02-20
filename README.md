@@ -20,16 +20,8 @@ You can find me on
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niceygy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-## Awards & Certifications
- <img align="left" height="120px" width="100px" src="https://github.com/NiceygyLive/NiceygyLive/blob/main/ideaBronze.png?raw=true" />
- <img align="center" height="120px" width="100px" src="https://github.com/NiceygyLive/NiceygyLive/blob/main/ideaSilver.png?raw=true" />
-
-iDEA Bronze & Sliver Awards
-
 ## Current Projects:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygy&repo=powerplayassistant)](https://github.com/Niceygy/powerplayassistant)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder)
-<br></br>
-![wakatime_img](https://wakatime.com/share/@3d2da146-02c8-4ca3-8d32-b8f1b67fa855/2bcfa224-a029-4db7-998b-64919e96a97a.png)
