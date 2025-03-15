@@ -8,7 +8,7 @@ A computer programmer & student. Although you probably knew the first one. <br> 
 
 Mostly sysadmin & programming projects. I mostly use Python & Javascript, with the occational AutoIt project. <br>
 I make tools to automate mundane tasks, or just for fun!<br>
-I also make [PowerPlay Assistant](https://elite.niceygy.net) for Elite: Dangerous! <br>
+I also make [PowerPlay Assistant](https://elite.niceygy.net) & [Architect's Notepad](https://colony.niceygy.net) for Elite: Dangerous <br>
 As well as that, I also do a few things for [@UFO-Studios](https://github.com/ufo-studios)<br> </br>
 
 ## Contact me!
