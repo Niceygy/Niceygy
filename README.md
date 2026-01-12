@@ -29,13 +29,3 @@ I use (or have used) the following <br> </br>
 You can find me on 
 - [Bluesky](https://go.niceygy.net/bsky)
 - [Email](https://go.niceygy.net/mailme)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niceygy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-## 'Current' Projects:
-(Updated as often as I can be bothered)
-| | |
-| :-------------: | :-------------: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygy&repo=powerplayassistant)](https://github.com/Niceygy/powerplayassistant) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niceygy&repo=eddatacollector.net)](https://github.com/Niceygy/eddatacollector.net) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder) |
