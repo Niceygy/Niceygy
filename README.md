@@ -1,6 +1,8 @@
 # Hi
 ### I'm niceygy, but call me nicey (nice-ee)
 
+*No, not even I know how the full username should be said. Words be hard alright :P*
+
 An amateur programmer & Computer Networking student. Although you probably knew the first one. <br> </br>
 
 I play games, and occasionally make tools to make playing said games easier. <br> </br>
@@ -10,3 +12,4 @@ You can find everything I've made (or at least, want to share) on my [website](h
 I also keep some projects on [code.niceygy.net](https://code.niceygy.net)
 
 Made with 💜 & 💥, by Nicey.
+:D
